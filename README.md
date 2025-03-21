@@ -30,8 +30,8 @@
 ---
 
 ## 💻 Skills  
-- **Languages**: Python, C, C++, JavaScript  
-- **Frameworks & Tools**: Spark, DjangoChannels, Express.js, WebSockets  
+- **Languages**: Python, C++, JavaScript  
+- **Frameworks & Tools**: Spark, Express.js, WebSockets  
 - **Databases**: Redis, Redshift  
 - **Cloud & DevOps**: AWS (S3, Lambda, EMR), GitHub Actions, Docker  
 - **AI & NLP**: PyTorch, Transformers 
