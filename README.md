@@ -31,7 +31,7 @@
 
 ## 💻 Skills  
 - **Languages**: Python, C++, JavaScript  
-- **Frameworks & Tools**: Spark, DjangoChannels, Express.js, WebSockets  
+- **Frameworks & Tools**: Spark, DjangoChannels, Express.js
 - **Databases**: Redis, Redshift  
 - **Cloud & DevOps**: AWS (S3, Lambda, EMR), GitHub Actions, Docker  
 - **AI & NLP**: PyTorch, Transformers 
@@ -55,7 +55,7 @@
 ### 🎮 42서울 Transcendance **(백엔드 WebSocket 담당)**  
 - **프로젝트**: 멀티플레이 탁구 게임 서버 개발
 - **URL**: [https://github.com/Commit-The-Frog/Transcendence](https://github.com/Commit-The-Frog/Transcendence)  
-- **기술 스택**: Python, DjangoChannels, WebSockets  
+- **기술 스택**: Python, DjangoChannels  
 - **내용**:  
   - **Django WebSocket 서버 구축**, 실시간 데이터 통신 설계  
   - **게임 대기열 및 4인 토너먼트 구현**  
