@@ -1,89 +1,76 @@
-# 🛠 Data Engineer | Backend Engineer | AI  
-### **최민제**
-## 📝 Summary  
-개발자로서 **데이터 엔지니어링, 웹소켓 기반 실시간 통신, 자연어처리(NLP)** 경험을 보유하고 있습니다.  
-42서울에서 동료학습을 주도하며, 커뮤니티 활성화와 협업 프로젝트를 기획하고 성공적으로 운영한 경험이 있습니다.  
-특히 **42peer 운영**, **Level42 운영 & 초기 프로젝트 구현**을 통해 _정보통신평가원장상_ 을 수상하였으며,  
-**팀워크, 커뮤니케이션, 문제해결** 능력을 검증받았습니다.
+<div align="center">
+  <h1>👋 안녕하세요, 데이터 엔지니어 최민제입니다.</h1>
+  <p>
+    <strong>데이터의 가치를 발견하고, 안정적인 파이프라인 위에서 아이디어를 현실로 만드는 데 기여합니다.</strong>
+  </p>
+  <p>
+    <a href="mailto:louis9982.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://github.com/minjacho42"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  </p>
+</div>
 
----
+<br>
 
-## 🎓 Education  
-- **숭실대학교**  
-  _2018.03 - 2025.08_
-  - **전공:** 컴퓨터학부  
+## 🚀 소개
 
-- **구름 AI 자연어처리 전문가 양성과정 5기**  
-  _2022.07 - 2022.11_
-  - **🏆 최우수 수료자 선정**  
+> 데이터 파이프라인 성능을 **40% 개선**하고, 자동 배포 환경을 구축해 **협업 속도를 가속화**한 경험이 있습니다. <br>
+> Spark, AWS, GitHub Actions를 활용해 수집, 분석, 시각화까지 자동화된 파이프라인 설계 및 구현에 강점이 있습니다. <br>
+> 실제 사용자 문제를 해결하며 서비스 가치를 극대화하는 엔지니어링을 지향합니다.
 
-- **42서울**  
-  _10기 멤버, 2023.10 - 현재_  
-  - 동료평가를 통해 동료와 함께 성장하는 교육과정
-  - 동아리 42peer 운영진
-  - 동아리 Level42 운영진 (**🏆정보통신평가원장상 수상**)
+<br>
 
-- **HMG 소프티어 부트캠프**  
-  _데이터 엔지니어링 5기, 2025.01 - 2025.02_  
-  - Spark, AWS, 데이터 파이프라인 구축  
+## 🛠️ 기술 스택 (Tech Stack)
 
----
+| Category | Skills |
+|:---:|:---|
+| **Language** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> |
+| **Cloud** | <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> |
+| **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> |
+| **Data** | <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/> |
+| **Framework** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> |
+| **CI/CD** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/> |
 
-## 💻 Skills  
-- **Languages**: Python, C++, JavaScript  
-- **Frameworks & Tools**: Spark, DjangoChannels, Express.js
-- **Databases**: Redis, Redshift  
-- **Cloud & DevOps**: AWS (S3, Lambda, EMR), GitHub Actions, Docker  
-- **AI & NLP**: PyTorch, Transformers 
+<br>
 
----
+## 🌟 프로젝트 (Projects)
 
-## 🔥 Projects  
+### 1. 인터넷 커뮤니티 반응 시각화 데이터 파이프라인 (2025.02)
+* **🔗 GitHub:** [DE-team2-vroomcast](https://github.com/minjacho42/DE-team2-vroomcast)
+* **📝 개요**: Airflow, Spark, Redshift, SuperSet을 통한 E2E Data Pipeline 구축 (3인 팀 프로젝트)
+* **🎯 주요 성과 및 역할**:
+    * Spark의 `explode` 연산 시 발생하는 데이터 쏠림 현상을 Window 함수 기반의 **독자적인 파티셔닝 로직으로 해결**, 처리 시간 **40% 단축**
+    * Python UDF 대비 JVM 직렬화 오버헤드가 적은 **Pandas UDF를 채택**하여 NLP 처리 파이프라인 성능 최적화
+    * **GitHub Actions 기반 CI/CD 파이프라인을 구축**하여 Docker 이미지 빌드부터 AWS Lambda 배포까지 자동화, 팀 개발 생산성 향상
 
-### ☁️ 2022 구름 자연어처리 전문가 양성과정
-- **프로젝트**: 악성 댓글 순화를 위한 KcELECTRA + GPT-2 모델 활용
-- **URL**: [https://github.com/minjacho42/groomProject](https://github.com/minjacho42/groomProject)
-- **기술 스택**: Python, PyTorch  
-- **내용**:  
-  - 비윤리적 표현을 **KcELECTRA 기반 마스킹 후 GPT-2로 단어 대체**
-  - **비병렬 데이터**라는 한계를 극복하기 위한 모델 설계
-  - 자연어처리 모델 설계 및 학습  
-  - AI 기반 필터링 시스템 구현  
+### 2. 교육시설 내부 공용 게임기 예약 서비스 (2024.02 - 05)
+* **🔗 GitHub:** [lv42-Backend](https://github.com/Team-LV42/lv42-Backend)
+* **📝 개요**: Node.js, Express, MongoDB 기반의 실시간 예약 시스템 (4인 팀 프로젝트)
+* **🎯 주요 성과 및 역할**:
+    * **Redis Sorted Set**을 활용한 닉네임 자동완성 기능으로 DB 부하 감소 및 검색 응답 속도 개선
+    * **SSE(Server-Sent Events)** 기술을 도입하여 다수 사용자의 동시 요청에 따른 데이터 불일치 문제 해결
+    * 월평균 **112명의 실사용자 확보** 및 서비스 만족도를 기반으로 **정보통신기획평가원장상** 수상
 
----
+### 3. 악성댓글 순화 AI 모델 구현 (2022.11)
+* **🔗 GitHub:** [groomProject](https://github.com/minjacho42/groomProject)
+* **📝 개요**: PyTorch, Hugging Face 기반 악성 토큰 탐지 및 문장 재작성 모델 개발 (4인 팀 프로젝트)
+* **🎯 주요 성과 및 역할**:
+    * **W&B(Weights & Biases)** 를 도입하여 실험 관리 시스템을 구축, 모델 튜닝 효율화 및 팀의 실험 재현성 확보
+    * 분류 모델의 Score 변화를 통해 악성 토큰을 탐지하고, 이를 GPT-2 생성 모델과 결합하는 **독자적인 재작성 파이프라인 설계**
 
-### 🎮 42서울 Transcendance **(백엔드 WebSocket 담당)**  
-- **프로젝트**: 멀티플레이 탁구 게임 서버 개발
-- **URL**: [https://github.com/Commit-The-Frog/Transcendence](https://github.com/Commit-The-Frog/Transcendence)  
-- **기술 스택**: Python, DjangoChannels  
-- **내용**:  
-  - **Django WebSocket 서버 구축**, 실시간 데이터 통신 설계  
-  - **게임 대기열 및 4인 토너먼트 구현**  
-  - 실시간 매칭 로직 최적화 및 게임 상태 관리  
+<br>
 
----
+## 🎓 교육 및 활동 (Education & Activities)
 
-### 🎮 42서울 Level42 **(게임기 예약 시스템 백엔드 담당)**  
-- **프로젝트**: 42서울 내부 게임기 예약 시스템 개발로 기존 42서울 내부 게임기 관리문제 해결
-- **URL**: [https://github.com/Team-LV42/lv42-Backend](https://github.com/Team-LV42/lv42-Backend)
-- **기술 스택**: JavaScript, Express.js, OAuth2.0, Redis, SSE  
-- **내용**:  
-  - **42Network OAuth2.0 소셜 로그인 연동**  
-  - Redis를 활용한 **Access/Refresh Token 관리 로직 구현**  
-  - **Server-Sent Events (SSE) 기반 예약 현황 실시간 반영**  
+* **Soongsil University** (2018.03 - 2025.08)
+* **HMG SOFTEER BOOTCAMP 5기** (2025.01 - 2025.02)
+* **42SEOUL** (2023.10 - 2025.10)
+* **GROOM 자연어처리 전문가 양성 과정 5기** (2022.07 - 2022.11)
 
----
+<br>
 
-### 🚗 HMG 소프티어 부트캠프 데이터 엔지니어링 5기 
-- **프로젝트**: 자동차 커뮤니티 모니터링 및 이상치 감지 알림 시스템
-- **URL**: [https://github.com/softeer5th/DE-team2-vroomcast](https://github.com/softeer5th/DE-team2-vroomcast) 
-- **기술 스택**: Spark, AWS (S3, Redshift, EMR, Lambda), GitHub Actions  
-- **내용**:
-  - **AWS Lambda를 통한 커뮤니티 크롤링**
-  - **Spark 기반 자연어처리 (문장 분리, 카테고리 분석, 불필요 정보 필터링)**  
-  - **GitHub Actions을 활용한 AWS Lambda 자동 배포**  
-  
----
+## 🏆 수상 및 자격 (Achievements & Certifications)
 
-## 🎯 Contact  
-✉️ Email: louis9982.dev@gmail.com  
+* **정보통신기획평가원장상** (42서울 내 교육생 구현 우수 서비스) (2024.12)
+* **Groom 자연어처리 전문가 양성 과정 5기 우수 수료자** (2022.11)
+* **PCCP Python Lv.4** (2024.10)
+* **PCCP C++ Lv.3** (2024.08)
