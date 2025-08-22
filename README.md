@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 안녕하세요, 데이터 엔지니어 최민제입니다.</h1>
   <p>
-    <strong>데이터의 가치를 발견하고, 안정적인 파이프라인 위에서 아이디어를 현실로 만드는 데 기여합니다.</strong>
-  </p>
-  <p>
     <a href="mailto:louis9982.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/minjacho42"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   </p>
@@ -74,3 +71,4 @@
 * **Groom 자연어처리 전문가 양성 과정 5기 우수 수료자** (2022.11)
 * **PCCP Python Lv.4** (2024.10)
 * **PCCP C++ Lv.3** (2024.08)
+
