@@ -48,7 +48,7 @@
     * 월평균 **112명의 실사용자 확보** 및 서비스 만족도를 기반으로 **정보통신기획평가원장상** 수상
 
 ### 3. AI 부동산 계약 검증 서비스 - 부메랑 (2025)
-* **🔗 GitHub:** [boomerang](https://github.com/your-org/boomerang)
+* **🔗 GitHub:** [Hack-TeamBMR](https://github.com/minjacho42/Hack-TeamBMR)
 * **📝 개요**: STT, OCR, LLM을 활용한 부동산 계약 검증 AI 서비스 (5인 팀 프로젝트)
 * **🎯 주요 성과 및 역할**:
     * **FastAPI 기반 백엔드 개발** 및 MongoDB 데이터 저장소 설계
