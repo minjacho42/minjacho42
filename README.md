@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 안녕하세요, 데이터 엔지니어 최민제입니다.</h1>
+  <h1>👋 안녕하세요, 최민제입니다.</h1>
   <p>
     <a href="mailto:louis9982.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/minjacho42"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
@@ -11,8 +11,8 @@
 ## 🚀 소개
 
 > 데이터 파이프라인 성능을 **40% 개선**하고, 자동 배포 환경을 구축해 **협업 속도를 가속화**한 경험이 있습니다. <br>
-> Spark, AWS, GitHub Actions를 활용해 수집, 분석, 시각화까지 자동화된 파이프라인 설계 및 구현에 강점이 있습니다. <br>
-> 실제 사용자 문제를 해결하며 서비스 가치를 극대화하는 엔지니어링을 지향합니다.
+> Spark, AWS, GitHub Actions를 활용한 데이터 수집, 분석, 시각화 경험과 함께, <br>
+> 개발자 커뮤니티 운영을 통해 사람과 기술을 연결하는 일에 관심을 갖고 있습니다.
 
 <br>
 
@@ -23,7 +23,7 @@
 | **Language** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> |
 | **Cloud** | <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> |
 | **Database** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> |
-| **Data** | <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/> |
+| **Data** | <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> |
 | **Framework** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> |
 | **CI/CD** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/> |
 
@@ -47,7 +47,15 @@
     * **SSE(Server-Sent Events)** 기술을 도입하여 다수 사용자의 동시 요청에 따른 데이터 불일치 문제 해결
     * 월평균 **112명의 실사용자 확보** 및 서비스 만족도를 기반으로 **정보통신기획평가원장상** 수상
 
-### 3. 악성댓글 순화 AI 모델 구현 (2022.11)
+### 3. AI 부동산 계약 검증 서비스 - 부메랑 (2025)
+* **🔗 GitHub:** [boomerang](https://github.com/your-org/boomerang)
+* **📝 개요**: STT, OCR, LLM을 활용한 부동산 계약 검증 AI 서비스 (5인 팀 프로젝트)
+* **🎯 주요 성과 및 역할**:
+    * **FastAPI 기반 백엔드 개발** 및 MongoDB 데이터 저장소 설계
+    * **AWS(EC2, S3) 인프라 구축** 및 GitHub Actions CI/CD 파이프라인 자동화
+    * **정보통신기획평가원장상** 수상
+
+### 4. 악성댓글 순화 AI 모델 구현 (2022.11)
 * **🔗 GitHub:** [groomProject](https://github.com/minjacho42/groomProject)
 * **📝 개요**: PyTorch, Hugging Face 기반 악성 토큰 탐지 및 문장 재작성 모델 개발 (4인 팀 프로젝트)
 * **🎯 주요 성과 및 역할**:
@@ -68,7 +76,7 @@
 ## 🏆 수상 및 자격 (Achievements & Certifications)
 
 * **정보통신기획평가원장상** (42서울 내 교육생 구현 우수 서비스) (2024.12)
+* **정보통신기획평가원장상** (AI 부동산 계약 검증 서비스) (2025)
 * **Groom 자연어처리 전문가 양성 과정 5기 우수 수료자** (2022.11)
 * **PCCP Python Lv.4** (2024.10)
 * **PCCP C++ Lv.3** (2024.08)
-
